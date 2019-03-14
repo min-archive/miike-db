@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+  <title>データセット</title>
+
+  <style>
+  body {
+    word-wrap: break-word
+  }
+
+  :root {
+    --jumbotron-padding-y: 3rem;
+  }
+
+  .jumbotron {
+    padding-top: var(--jumbotron-padding-y);
+    padding-bottom: var(--jumbotron-padding-y);
+    margin-bottom: 0;
+    background-color: #fff;
+  }
+  @media (min-width: 768px) {
+    .jumbotron {
+      padding-top: calc(var(--jumbotron-padding-y) * 2);
+      padding-bottom: calc(var(--jumbotron-padding-y) * 2);
+    }
+  }
+
+  .jumbotron p:last-child {
+    margin-bottom: 0;
+  }
+
+  .jumbotron-heading {
+    font-weight: 300;
+  }
+
+  .jumbotron .container {
+    max-width: 40rem;
+  }
+
+  footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+
+  footer p {
+    margin-bottom: .25rem;
+  }
+  </style>
+
+</head>
+<body>
+  <header>
+    <div class="navbar navbar-dark bg-dark shadow-sm">
+      <div class="container d-flex justify-content-between">
+        <a href="#" class="navbar-brand d-flex align-items-center">
+          <strong><span id="title"></span> - データセット</strong>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main role="main">
+
+    <section class="jumbotron text-center">
+      <div class="container">
+        <p class="lead text-muted"><span id="label"></span>データセットはGitHub*上で公開しています。<br/>以下のURLから当該ページにアクセスしてください。</p>
+        <p class="lead text-muted">
+          <a id="github" class="my-2"></a>
+        </p>
+        <p class="lead text-muted mt-5">データセットの説明については<a id="github_path">こちら</a>をご確認ください。</p>
+
+        <p class="lead text-muted mt-5">*GitHub: ファイルのバージョン管理サービス。ファイルの共有、変更履歴の記録、バックアップ等の目的で利用しています。</p>
+      </div>
+    </section>
+
+  </main>
+
+
+    <div class="album py-5 bg-light" style="display : none;" id="example">
+      <div class="container">
+        <h1 class="jumbotron-heading text-center mb-5">コレクション例</h1>
+        <div class="row" id="row">
+
+        </div>
+      </div>
+    </div>
+
+  <div class="album py-5 bg-light" style="display : none;" id="album">
+    <div class="container">
+      <h1 class="jumbotron-heading text-center mb-5">利用例</h1>
+      <div class="row">
+        <div class="col-md-3">
+          <div class="card mb-4 shadow-sm">
+            <img class="card-img-top" src="https://archdataset.dl.itc.u-tokyo.ac.jp/html/assets/images/excel.png" alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">メタデータをMS Excel形式でダウンロードする</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <a id="excel" class="btn btn-sm btn-outline-secondary">Download</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="card mb-4 shadow-sm">
+            <img class="card-img-top" src="https://archdataset.dl.itc.u-tokyo.ac.jp/html/assets/images/graph-draw.png" alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text"><a href="https://www.kanzaki.com/works/2014/pub/ld-browser">Linked Data Browser</a>でRDFを閲覧する</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <a id="ld" class="btn btn-sm btn-outline-secondary">View</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="card mb-4 shadow-sm">
+            <img class="card-img-top" src="https://archdataset.dl.itc.u-tokyo.ac.jp/html/assets/images/iiif.png" alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">IIIFコレクションをUniversal Viewerで閲覧する</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <a id="iiif" class="btn btn-sm btn-outline-secondary">View</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="card mb-4 shadow-sm">
+            <img class="card-img-top" src="https://archdataset.dl.itc.u-tokyo.ac.jp/html/assets/images/vis.png" alt="Card image cap">
+            <div class="card-body">
+              <p class="card-text">メタデータの集計結果を閲覧する</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <a id="vis" class="btn btn-sm btn-outline-secondary">View</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="text-center bg-secondary">
+    <div class="py-2" style="color : white;">
+      <p id="footer"></p>
+    </div>
+  </footer>
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  <script>
+
+  var github_path = "https://github.com/min-arc/miike-db"
+  var github_pages_path = "https://miike-db.github.io/min-arc"
+  var title = "みいけ資料館"
+  var footer = "Powered by Omeka S"
+
+  var arg  = new Object;
+  url = location.search.substring(1).split('&');
+
+  for(i=0; url[i]; i++) {
+    var k = url[i].split('=');
+    arg[k[0]] = decodeURIComponent(k[1]);
+  }
+
+  var collection = arg["collection"] ? arg["collection"] : "all"
+
+  if(collection != ""){
+    $("#album").show()
+    $("#excel").attr("href", github_pages_path+"/"+collection+"/metadata/data.xlsx")
+    $("#ld").attr("href", "https://www.kanzaki.com/works/2014/pub/ld-browser?u="+github_pages_path+"/"+collection+"/metadata/data.json")
+    $("#iiif").attr("href", "http://da.dl.itc.u-tokyo.ac.jp/uv/?manifest="+github_pages_path+"/"+collection+"/image/collection.json")
+    $("#vis").attr("href", "https://archdataset.dl.itc.u-tokyo.ac.jp/html/vis.html?u="+github_pages_path+"/"+collection+"/metadata/data.json")
+
+    $.ajax({
+      url:"list.json"
+    })
+    // Ajaxリクエストが成功した時発動
+    .done( (data) => {
+
+      var result = data
+
+      if(data[collection]){
+        var label = data[collection].label
+        $("#label").append("『"+label+"』の")
+      }
+
+    })
+  } else {
+    var arr = [
+      {
+        label: "外務省関係資料",
+        id: "外務省関係資料"
+      },
+      {
+        label: "all",
+        id: "all"
+      }
+    ]
+
+    for(var i = 0; i < arr.length; i++){
+      var obj = arr[i]
+
+      var col = $('<div class="col-md-4">')
+      $("#row").append(col)
+
+      var card = $('<div class="card mb-4 shadow-sm">')
+      col.append(card)
+
+      var body = $('<div class="card-body">')
+      card.append(body)
+
+      var a = $('<a class="card-text">')
+      body.append(a)
+      a.text(obj.label)
+      a.attr("href", "?collection="+obj.id)
+
+      /*
+      <div class="col-md-4">
+        <div class="card mb-4 shadow-sm">
+          <img class="card-img-top" src="https://www.lib.u-tokyo.ac.jp/sites/default/files/styles/max_350_215/public/eyecatching/2018-08/coll-tanakahakubutsugaku.png" alt="Card image cap">
+          <div class="card-body">
+            <p class="card-text">【総合図書館】田中芳男・博物学コレクション</p>
+            <div class="d-flex justify-content-between align-items-center">
+              <div class="btn-group">
+                <a href="?collection=tanaka" class="btn btn-sm btn-outline-secondary">View</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      */
+
+    }
+
+    $("#example").show()
+  }
+
+  $("#github_path").attr("href", github_path)
+  $("#title").text(title)
+  $("#footer").text(footer)
+
+  $("#github").attr("href", github_path+"/tree/master/docs/"+collection)
+  $("#github").text(github_path+"/tree/master/docs/"+collection)
+  </script>
+</body>
+</html>

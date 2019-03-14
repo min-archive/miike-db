@@ -1,0 +1,359 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://min-arc.github.io/miike-db/collections/all/image/collection.json",
+    "@type": "sc:Collection",
+    "manifests": [
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/cb8b7a1c-7b61-11e8-adc0-fa7ae01bbebc/manifest",
+            "@type": "sc:Manifest",
+            "label": "三池刑務所職員記念写真帳昭和5年12月",
+            "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/hatimaki/manifest",
+            "@type": "sc:Manifest",
+            "label": "三池労組鉢巻"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/hatimaki2/manifest",
+            "@type": "sc:Manifest",
+            "label": "三池主婦会鉢巻"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/hatimaki3/manifest",
+            "@type": "sc:Manifest",
+            "label": "その他の鉢巻"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/hatimaki4/manifest",
+            "@type": "sc:Manifest",
+            "label": "寄書された鉢巻"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/hatimaki5/manifest",
+            "@type": "sc:Manifest",
+            "label": "寄書された鉢巻"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/kisyo1/manifest",
+            "@type": "sc:Manifest",
+            "label": "黒い羽根運動バッジ"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/kisyo2/manifest",
+            "@type": "sc:Manifest",
+            "label": "三池労組組合員記"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/kisyo3/manifest",
+            "@type": "sc:Manifest",
+            "label": "三井石炭鉱業㈱ネクタイピン"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/kisyo4/manifest",
+            "@type": "sc:Manifest",
+            "label": "三井石炭鉱業㈱優良社員"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/kaban/manifest",
+            "@type": "sc:Manifest",
+            "label": "坑内用作業袋"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/kaban2/manifest",
+            "@type": "sc:Manifest",
+            "label": "坑内用作業袋"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/chalk/manifest",
+            "@type": "sc:Manifest",
+            "label": "坑内用チョーク入れ"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/battery/manifest",
+            "@type": "sc:Manifest",
+            "label": "赤色尾"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/battery2/manifest",
+            "@type": "sc:Manifest",
+            "label": "キャップランプ"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/hankati/manifest",
+            "@type": "sc:Manifest",
+            "label": "四山鉱ZD運動ハンカチ"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/sekitan/manifest",
+            "@type": "sc:Manifest",
+            "label": "石炭人形"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/sekitan2/manifest",
+            "@type": "sc:Manifest",
+            "label": "レリーフ式石炭人形"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/omutamap/manifest",
+            "@type": "sc:Manifest",
+            "label": "昭和31年大牟田市街地図"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/sinbun/manifest",
+            "@type": "sc:Manifest",
+            "label": "くろだいや新聞"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/sagyogi/manifest",
+            "@type": "sc:Manifest",
+            "label": "坑内作業"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/kyahan/manifest",
+            "@type": "sc:Manifest",
+            "label": "脚絆"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/kutu/manifest",
+            "@type": "sc:Manifest",
+            "label": "坑内保安靴"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/tate1/manifest",
+            "@type": "sc:Manifest",
+            "label": "「三池闘争20周年記念」盾"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/tate2/manifest",
+            "@type": "sc:Manifest",
+            "label": "「組合結成30周年記念」盾"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/osakama/manifest",
+            "@type": "sc:Manifest",
+            "label": "坑内帽"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/kawaguti2/manifest",
+            "@type": "sc:Manifest",
+            "label": "布製の作業用帽子"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/akahata1/manifest",
+            "@type": "sc:Manifest",
+            "label": "赤旗"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/akahata3/manifest",
+            "@type": "sc:Manifest",
+            "label": "赤旗"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/akahata4/manifest",
+            "@type": "sc:Manifest",
+            "label": "赤旗"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/akahata5/manifest",
+            "@type": "sc:Manifest",
+            "label": "赤旗"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/ehagaki1/manifest",
+            "@type": "sc:Manifest",
+            "label": "「企業整備反対闘争」絵はがき"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/ehagaki2/manifest",
+            "@type": "sc:Manifest",
+            "label": "拒否者代表の帰山を迎え大牟田駅前の歓迎デモ"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/ehagaki3/manifest",
+            "@type": "sc:Manifest",
+            "label": "首切り辞令は返上だ 棺桶や樽に詰めて座込み"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/ehagaki4/manifest",
+            "@type": "sc:Manifest",
+            "label": "父ちゃん、兄ちゃんの首を切るな"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/ehagaki5/manifest",
+            "@type": "sc:Manifest",
+            "label": "父ちゃんの背で首切り反対を叫ぶ"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/ehagaki6/manifest",
+            "@type": "sc:Manifest",
+            "label": "9月4日首切り辞令を返上に雨中に8時間デモる"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/ehagaki7/manifest",
+            "@type": "sc:Manifest",
+            "label": "10月8日より4日3晩の歴史的な山ノ上倶楽部の包囲デモ"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/ehagaki8/manifest",
+            "@type": "sc:Manifest",
+            "label": "首切りの後は労働強化だ　二番方昇坑者は鉱長室前でデモる"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/ehagaki9/manifest",
+            "@type": "sc:Manifest",
+            "label": "炭労から三鉱連を経て1000万円のカンパ届く"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira12/manifest",
+            "@type": "sc:Manifest",
+            "label": "声明書"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira26/manifest",
+            "@type": "sc:Manifest",
+            "label": "宮川組合長は既に1200名の解雇を認めていた"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira5/manifest",
+            "@type": "sc:Manifest",
+            "label": "総評・炭労　オルグは帰れ！！"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira17/manifest",
+            "@type": "sc:Manifest",
+            "label": "声明書・三池が勝つことは平和を守ること"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira19/manifest",
+            "@type": "sc:Manifest",
+            "label": "岸を倒せ、三池守れの声"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira28/manifest",
+            "@type": "sc:Manifest",
+            "label": "新労の勝利をいのる！！"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira9/manifest",
+            "@type": "sc:Manifest",
+            "label": "会社は安定した長期体制をもって争議に対処している"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira1/manifest",
+            "@type": "sc:Manifest",
+            "label": "三池炭鉱の争議について　広く與論に訴える"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira29/manifest",
+            "@type": "sc:Manifest",
+            "label": "私達は自分の家に住めない"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira30/manifest",
+            "@type": "sc:Manifest",
+            "label": "岸と三井の会社の暴挙は許されません"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira4/manifest",
+            "@type": "sc:Manifest",
+            "label": "総評臨時大会　代議員の諸君に告ぐ"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira21/manifest",
+            "@type": "sc:Manifest",
+            "label": "凶悪化した会社の殺人的行為"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira7/manifest",
+            "@type": "sc:Manifest",
+            "label": "会社再建と安保は全く別問題です！！"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira20/manifest",
+            "@type": "sc:Manifest",
+            "label": "私たちのピケはゆるがない"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira18/manifest",
+            "@type": "sc:Manifest",
+            "label": "警官導入に苦肉の策　三池炭鉱労働組合"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira22/manifest",
+            "@type": "sc:Manifest",
+            "label": "旧労同志仲間われの悲劇"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira8/manifest",
+            "@type": "sc:Manifest",
+            "label": "旧労　借金の対策に刀折れ矢尽く"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira2/manifest",
+            "@type": "sc:Manifest",
+            "label": "会社再建については絶対妥協は許されない"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira6/manifest",
+            "@type": "sc:Manifest",
+            "label": "声明書"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira13/manifest",
+            "@type": "sc:Manifest",
+            "label": "首切りは \"死刑の宣告\""
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira14/manifest",
+            "@type": "sc:Manifest",
+            "label": "ホッパーピケは犯罪行為"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira23/manifest",
+            "@type": "sc:Manifest",
+            "label": "旧労の皆さんに告ぐ！！"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira15/manifest",
+            "@type": "sc:Manifest",
+            "label": "仮処分が平穏に執行できるようご協力下さい"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira16/manifest",
+            "@type": "sc:Manifest",
+            "label": "流血の惨事はさけねばならぬ　総評・炭労現地指導委員会"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira25/manifest",
+            "@type": "sc:Manifest",
+            "label": "会社が早期解決をしぶっているのはなぜでしょう"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/bira24/manifest",
+            "@type": "sc:Manifest",
+            "label": "新労加入者　声明を発表す"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/tasuki/manifest",
+            "@type": "sc:Manifest",
+            "label": "三池炭鉱じん肺訴訟原告団タスキ"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/pipe/manifest",
+            "@type": "sc:Manifest",
+            "label": "ホッパーパイプ"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/204/manifest",
+            "@type": "sc:Manifest",
+            "label": "一浦墓地写真",
+            "license": "http://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+            "@id": "https://diyhistory.org/miike-db/iiif/sample/manifest",
+            "@type": "sc:Manifest",
+            "label": "三池炭鉱に関するフリー写真（サンプル）"
+        }
+    ]
+}

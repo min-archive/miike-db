@@ -1,0 +1,18 @@
+api_url: https://diyhistory.org/miike-db/api
+output_dir: ../docs/collections
+metadata:
+  dcterms:identifier: ID
+  dcterms:isPartOf: ウェブサイトURL
+  dcterms:relation: アイテムURL
+  dcterms:rights: 利用条件
+  foaf:thumbnail: サムネイル
+  rdfs:seeAlso: 機械可読ドキュメント
+  sc:attributionLabel: 帰属
+  sc:viewingDirection: viewingDirection
+  uterms:manifestUri: IIIFマニフェストURI
+  uterms:searchApiUri: IIIF Search API URI
+sort: uterms:sort
+github_pages_url: https://min-arc.github.io/miike-db
+identifier: dcterms:identifier
+base_url: https://diyhistory.org/miike-db/s/maekawa/item
+list_path: list.json

@@ -1,0 +1,2117 @@
+@prefix ns1: <http://omeka.org/s/vocabs/o#> .
+@prefix ns2: <http://purl.org/dc/terms/> .
+@prefix ns3: <http://data.archiveshub.ac.uk/def/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://diyhistory.org/miike-db/api/items/10> a ns1:Item ;
+    ns3:acquisitions "渡辺氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 10 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/162>,
+        <https://diyhistory.org/miike-db/api/media/163> ;
+    ns1:modified "2018-10-06T03:39:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description "<p>三池労組鉢巻の糸をほどいて寄せ書きされた。</p>" ;
+    ns2:extent "1" ;
+    ns2:identifier "hatimaki4" ;
+    ns2:medium "布" ;
+    ns2:subject "三池労組・三池主婦会鉢巻" ;
+    ns2:title "寄書された鉢巻" .
+
+<https://diyhistory.org/miike-db/api/items/11> a ns1:Item ;
+    ns3:acquisitions "渡辺氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 11 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/164>,
+        <https://diyhistory.org/miike-db/api/media/165> ;
+    ns1:modified "2018-10-06T03:39:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description "<p>三池主婦会鉢巻の糸をほどいて寄せ書きされた。</p>" ;
+    ns2:extent "1" ;
+    ns2:identifier "hatimaki5" ;
+    ns2:medium "布" ;
+    ns2:subject "三池労組・三池主婦会鉢巻" ;
+    ns2:title "寄書された鉢巻" .
+
+<https://diyhistory.org/miike-db/api/items/12> a ns1:Item ;
+    ns3:acquisitions "高田氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 12 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/166> ;
+    ns1:modified "2018-10-06T03:39:48+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description """<p>バッジは、かつて三池炭鉱があった熊本県荒尾市の高田さん宅にあったバッジ。 ツルハシに黒い羽根のデザインをあしらっているところから、「黒い羽根」助け合い運動に関係するものと思われる</p>
+<p>黒い羽根運動と言えば昭和30年代、中小炭鉱がひしめいていた筑豊地方から始まった。当時貧困にあえいでいた失業者はざっと 2万3000人。その一つに、昭和31年7月閉山になった室井豊徳炭鉱（田川市猪位金）があった。その炭住に住む40世帯188人の人たち は失対事業やボタ拾い、練炭作りなどの手間仕事で辛うじて命をつないでいた。月５，６千円程度の収入で平均4.95人の家族では一 日２食の食事さえかなわず、沼地にいるザリガニを捕って蛋白源とした。うどん、ダンゴ汁、ジャガイモ、サツマイモ、カボチャな ども主食となった。親も子も栄養失調でやせこけ、乳児の死亡率も高かった。（昭和34年11月29日付け　三池労組機関紙「みいけ」 参照） </p>
+<p>そんな中、「石炭不況による炭鉱失業者を救おう」と、福岡市の主婦たち10人が呼びかけた「黒い羽根運動」が全国に広がって いった。今でもおこなわれている“赤い羽根”募金運動の赤い羽根を、石炭が黒いことから黒い羽根に置き換えたものである。炭労 ・母親大会などを通じて全国的な運動となり、小学校などでも赤い羽根募金同様に募金がおこなわれた。</p>
+<p>それにしても、黒い羽根運動に伴うバッジの存在はめずらしい。</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "kisyo1" ;
+    ns2:subject "炭鉱関係記章類" ;
+    ns2:title "黒い羽根運動バッジ" .
+
+<https://diyhistory.org/miike-db/api/items/13> a ns1:Item ;
+    ns3:acquisitions "片岡氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 13 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/167> ;
+    ns1:modified "2018-10-06T03:39:48+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description """<p>三池労組の組合員記章は、昭和35年12月 以降の三池闘争後につくられた。</p>
+<p>「坑内は黒く塗った坑内帽にクッキリと白線3本、（中略）これが闘争中の鉢巻に変わった三池の労働者を象徴するものであった。この 三本線はフランス革命のスローガン「自由・平等・博愛」になぞらえて「団結・抵抗・統一」を意味するものとして、三池労組の長期抵抗 路線のシンボルとなった。（中略）就労にあたり、三池労組員と第二組合員とを坑内でもわかるように白の3本線がつくられた。（中略） 白線の幅7ミリ、白線と白線の間隔も7ミリと統一」（「みいけ20年　三池炭鉱労働組合編」より）された。</p>
+<p>勤務が終わって私服に着替えたときは三池労組組合員記章を身に付けた。そして、三池労組員であることを誇りとした。</p>
+<p>組合員記章の横の三本線は、以上のとおり、「団結・抵抗・統一」を意味し、三角形は「竪坑やぐら」、その地底（じぞこ）で働く炭鉱 労働者を「つるはし」で表わした。鳩は、働く者とその家族、そして社会の「平和」を願って、デザインされた。</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "kisyo2" ;
+    ns2:subject "炭鉱関係記章類" ;
+    ns2:title "三池労組組合員記" .
+
+<https://diyhistory.org/miike-db/api/items/14> a ns1:Item ;
+    ns3:acquisitions "積勝昭氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 14 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/168> ;
+    ns1:modified "2018-10-06T03:39:48+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description """<p>このネクタイピンは、1973（昭和48）年、三池鉱業所 が三井鉱山㈱から分離され、三井石炭鉱業㈱と名称が変更されたときに、三井石炭鉱業㈱の社員となった鉱員に社員バッジと共に配布され たときのもの。そのとき大多数が新労働組合に所属していた。</p>
+<p>三井鉱山㈱時代の炭鉱労働者は身分的に社員ではなく、「鉱員」と呼ばれ別格扱いされていた。そこに三井の根強い身分差別の歴史を 読み取ることができる。</p>
+<p>なお、複数の元三池労組員の話によると、「社員バッジやネクタイピンのこと、いま初めて知った。1973年と言えば三池労組がCO患者 422名とその遺族を原告としたマンモス訴訟を提訴したとき。また、三池労組は合理化としての三井鉱山からの分離にも反対していた。 だから会社が三池労組員には配布しなかったか、あるいは三池労組が社員バッジ等を拒否したか、どちらかであろう」とのことであった。</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "kisyo3" ;
+    ns2:subject "炭鉱関係記章類" ;
+    ns2:title "三井石炭鉱業㈱ネクタイピン" .
+
+<https://diyhistory.org/miike-db/api/items/15> a ns1:Item ;
+    ns3:acquisitions "藤田さん" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 15 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/169> ;
+    ns1:modified "2018-10-06T03:39:48+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description """<p>直径1.5㎝のバッジ裏面には「179」と「純銀金張」と 刻印されてある。また、「三井石炭鉱業株式会社優良社員章」と刻まれてある。</p>
+<p>三井石炭鉱業株式会社は昭和48年8月に三井鉱山㈱から分離独立して設立されたことから、その頃の記念バッジだと思われる。優良社員と 認められた三井三池鉱業所社員が東京本社で表彰を受けたときのものかも知れない。</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "kisyo4" ;
+    ns2:subject "炭鉱関係記章類" ;
+    ns2:title "三井石炭鉱業㈱優良社員" .
+
+<https://diyhistory.org/miike-db/api/items/16> a ns1:Item ;
+    ns3:acquisitions "山崎氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 16 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/170> ;
+    ns1:modified "2018-10-06T03:39:48+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description """<p>大きさ縦40センチ、横28センチ。帆布生地。主に三池鉱（旧三川鉱）で使われていた。</p>
+<P>＊　帆布（はんぷ）とは英語の CANVAS、厚布のこと。牛乳屋さんの配達カバンに使われたり、大工さん、植木屋さん、酒屋さんなど職人用のカバン に使用されていた。戦争中は、兵器のカバー、戦闘機の搭乗員用バッグ、落下傘を入れる袋などに使われた。</P>
+<p>「懐かしい袋です。40年ぶりに見ました。これに弁当や水筒、それに仕繰り用鋸など用具を詰めて坑内に下がっていました。」（伊藤さん）</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "kaban" ;
+    ns2:medium "帆布" ;
+    ns2:subject "坑内用作業袋" ;
+    ns2:title "坑内用作業袋" .
+
+<https://diyhistory.org/miike-db/api/items/17> a ns1:Item ;
+    ns3:acquisitions "浜崎忠勝氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 17 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/171> ;
+    ns1:modified "2018-10-06T03:39:48+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description "<p>大きさ縦33センチ、横36センチ。帆布生地。主に有明鉱で使われていた</p>" ;
+    ns2:extent "1" ;
+    ns2:identifier "kaban2" ;
+    ns2:medium "帆布" ;
+    ns2:subject "坑内用作業袋" ;
+    ns2:title "坑内用作業袋" .
+
+<https://diyhistory.org/miike-db/api/items/18> a ns1:Item ;
+    ns3:acquisitions "積さん" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 18 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/172> ;
+    ns1:modified "2018-10-06T03:39:48+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description "<p>港沖四山坑では、自前でチョーク入れを作って坑内作業で使用した</p>" ;
+    ns2:extent "1" ;
+    ns2:identifier "chalk" ;
+    ns2:subject "チョーク入れ・尾灯・キャップランプ" ;
+    ns2:title "坑内用チョーク入れ" .
+
+<https://diyhistory.org/miike-db/api/items/19> a ns1:Item ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 19 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/173> ;
+    ns1:modified "2018-10-06T03:39:48+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description "<p>安全のため、人車や炭車などの列の最後尾に 取り付けていた。入坑する時に持って下がり、昇坑したらまた充電しておく。</p>" ;
+    ns2:extent "1" ;
+    ns2:identifier "battery" ;
+    ns2:subject "チョーク入れ・尾灯・キャップランプ" ;
+    ns2:title "赤色尾" .
+
+<https://diyhistory.org/miike-db/api/items/2> a ns1:Item ;
+    ns1:created "2018-10-05T04:47:27+00:00"^^xsd:dateTime ;
+    ns1:id 2 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/1> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/212>,
+        <https://diyhistory.org/miike-db/api/media/404>,
+        <https://diyhistory.org/miike-db/api/media/405>,
+        <https://diyhistory.org/miike-db/api/media/406>,
+        <https://diyhistory.org/miike-db/api/media/407>,
+        <https://diyhistory.org/miike-db/api/media/408>,
+        <https://diyhistory.org/miike-db/api/media/409>,
+        <https://diyhistory.org/miike-db/api/media/410>,
+        <https://diyhistory.org/miike-db/api/media/411>,
+        <https://diyhistory.org/miike-db/api/media/412>,
+        <https://diyhistory.org/miike-db/api/media/413>,
+        <https://diyhistory.org/miike-db/api/media/414>,
+        <https://diyhistory.org/miike-db/api/media/415>,
+        <https://diyhistory.org/miike-db/api/media/416>,
+        <https://diyhistory.org/miike-db/api/media/417>,
+        <https://diyhistory.org/miike-db/api/media/418>,
+        <https://diyhistory.org/miike-db/api/media/419>,
+        <https://diyhistory.org/miike-db/api/media/420>,
+        <https://diyhistory.org/miike-db/api/media/421>,
+        <https://diyhistory.org/miike-db/api/media/422>,
+        <https://diyhistory.org/miike-db/api/media/423>,
+        <https://diyhistory.org/miike-db/api/media/424>,
+        <https://diyhistory.org/miike-db/api/media/425>,
+        <https://diyhistory.org/miike-db/api/media/426>,
+        <https://diyhistory.org/miike-db/api/media/427>,
+        <https://diyhistory.org/miike-db/api/media/428>,
+        <https://diyhistory.org/miike-db/api/media/429>,
+        <https://diyhistory.org/miike-db/api/media/430>,
+        <https://diyhistory.org/miike-db/api/media/431>,
+        <https://diyhistory.org/miike-db/api/media/432>,
+        <https://diyhistory.org/miike-db/api/media/433>,
+        <https://diyhistory.org/miike-db/api/media/434>,
+        <https://diyhistory.org/miike-db/api/media/435>,
+        <https://diyhistory.org/miike-db/api/media/436>,
+        <https://diyhistory.org/miike-db/api/media/437>,
+        <https://diyhistory.org/miike-db/api/media/438>,
+        <https://diyhistory.org/miike-db/api/media/439> ;
+    ns1:modified "2019-03-14T10:44:48+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:contributor "大牟田市史編さん室" ;
+    ns2:creator "三池刑務所" ;
+    ns2:date "1930年" ;
+    ns2:description "三池刑務所の職員記念写真" ;
+    ns2:identifier "cb8b7a1c-7b61-11e8-adc0-fa7ae01bbebc" ;
+    ns2:rights <http://creativecommons.org/publicdomain/zero/1.0/> ;
+    ns2:subject "三池刑務所" ;
+    ns2:title "三池刑務所職員記念写真帳昭和5年12月" .
+
+<https://diyhistory.org/miike-db/api/items/20> a ns1:Item ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 20 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/440> ;
+    ns1:modified "2018-11-02T13:07:05+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description "真っ暗闇の中での坑内作業には必需品。キャップランプが緑色は係員、 黒色は一般鉱員、白色は幹部職員をあらわしていた。" ;
+    ns2:extent "1" ;
+    ns2:identifier "battery2" ;
+    ns2:subject "チョーク入れ・尾灯・キャップランプ" ;
+    ns2:title "キャップランプ" .
+
+<https://diyhistory.org/miike-db/api/items/204> a ns1:Item ;
+    ns1:created "2018-10-06T03:50:46+00:00"^^xsd:dateTime ;
+    ns1:id 204 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/1> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/205> ;
+    ns1:modified "2019-03-14T10:43:53+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "宮本隆史" ;
+    ns2:date "2016年4月2日" ;
+    ns2:format "JPEG" ;
+    ns2:publisher "宮本隆史" ;
+    ns2:rights <http://creativecommons.org/licenses/by/4.0/> ;
+    ns2:title "一浦墓地写真" .
+
+<https://diyhistory.org/miike-db/api/items/206> a ns1:Item ;
+    ns1:created "2018-10-06T04:10:42+00:00"^^xsd:dateTime ;
+    ns1:id 206 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/1> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/207>,
+        <https://diyhistory.org/miike-db/api/media/208>,
+        <https://diyhistory.org/miike-db/api/media/209>,
+        <https://diyhistory.org/miike-db/api/media/210>,
+        <https://diyhistory.org/miike-db/api/media/211>,
+        <https://diyhistory.org/miike-db/api/media/213>,
+        <https://diyhistory.org/miike-db/api/media/214>,
+        <https://diyhistory.org/miike-db/api/media/215>,
+        <https://diyhistory.org/miike-db/api/media/216>,
+        <https://diyhistory.org/miike-db/api/media/217> ;
+    ns1:modified "2018-10-06T04:12:50+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "サンプル" ;
+    ns2:description "サンプル説明" ;
+    ns2:identifier "sample" ;
+    ns2:relation <https://www.photo-ac.com/main/search?q=三池炭鉱&srt=dlrank> ;
+    ns2:title "三池炭鉱に関するフリー写真（サンプル）" .
+
+<https://diyhistory.org/miike-db/api/items/21> a ns1:Item ;
+    ns3:acquisitions "積氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 21 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/175> ;
+    ns1:modified "2018-10-06T03:39:49+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description """<p>従業員一人ひとりの注意と工夫によって ミスや事故などを無くし効果的に仕事を進めようという小集団による全員参加型自主管理活動として、三井三池四山鉱で取り入れられ、 三池新労は会社側のこの提案を受け入れ取り組んだが、三池労組は参加しなかったという。ＺＤ運動とは、早い話が「生産性向上運動」 の一つ。安全を最優先とした三池労組が参加しなかった理由はそこにあったらしい。</p>
+<p>「1976年（昭和51）に入社した頃にはＺＤ運動は始まっていたような気がします」（積さん）</p>
+<p>なお、ＺＤ運動のＺＤとは、Zero Defects（無欠点）の略。法政大学大原社会問題研究所の解説によると「アメリカのマーチン社が 1962年、ミサイルの品質向上とコストダウンを目的として開発した管理手法」で、「日本では日本電気が1965年5月10日に導入実施し たのが最初」と言われている。</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "hankati" ;
+    ns2:medium "布" ;
+    ns2:subject "四山鉱 ＺＤ運動ハンカチ" ;
+    ns2:title "四山鉱ZD運動ハンカチ" .
+
+<https://diyhistory.org/miike-db/api/items/22> a ns1:Item ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 22 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/176> ;
+    ns1:modified "2018-10-06T03:39:49+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description """<p>二体の石炭人形。その一方のヘルメットには「三本線」がある。 「黒く塗った坑内帽にクッキリと白線3本、（中略）これが闘争中の鉢巻に変わった三池の労働者を象徴するものであった。この三本線はフランス革命の スローガン『自由・平等・博愛』になぞらえて、『団結・抵抗・統一』を意味するものとして、三池労組の長期抵抗路線のシンボルとなった。（中略） 就労にあたり、三池労組員と第二組合員とを坑内でもわかるように白の3本線がつくられた。（中略）白線の幅7ミリ、白線と白線の間隔も7ミリと統一 された」（みいけ二十年　三池炭鉱労働組合編）。 </p>
+<p>その「三本線」がある石炭人形の底側には「贈物・記念品専門店『むとう』　大牟田市民館前」というシールが貼付されてある。</p>
+<p>「石炭人形は、昭和30年代、大牟田市工芸指導所が特産品の一つとして考案したのが始まり。石炭くずであるピッチを溶かし型に流し固めた後、色を 塗って出来上がり。しかし、ピッチを溶かすときの臭いがひどいため、作る人が育たなかった。同人形の最後の作り手は、2001年2月に91歳で亡くなった 河村実子さんでした」（大牟田市石炭産業科学館）。</p>
+<p>三池炭鉱を定年退職する人などに、記念として同僚から贈られたりしたという。現在は販売されておらず、ＪＲ大牟田駅前にある観光案内所等に飾られ てあるのみ。</p>""" ;
+    ns2:extent "2" ;
+    ns2:identifier "sekitan" ;
+    ns2:medium "石炭" ;
+    ns2:subject "石炭人形" ;
+    ns2:title "石炭人形" .
+
+<https://diyhistory.org/miike-db/api/items/23> a ns1:Item ;
+    ns3:acquisitions "片岡古書店" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 23 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/177>,
+        <https://diyhistory.org/miike-db/api/media/178> ;
+    ns1:modified "2018-10-06T03:39:49+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description """<p>紙箱付き。その箱には「大牟田特産 石炭人形」と記されてある。 箱の中には「石炭人形について」という説明書があり、「（中略）この石炭人形民芸品は良質な三池炭等を原料とし特殊な方法と技術を加えて生産する ものでその製品は他に類のない本邦唯一の郷土色豊かな特産品で観光記念品・土産品・ギフトとしてひろく御好評をいただいております。　総発売元　 大牟田市有明町（市民館前）　武藤商事」と記載してある。 </p>
+<p>レリーフの裏側に刻印されてある「11月9日」とは、1963年戦後最大の炭鉱事故と言われた三井三池三川鉱炭塵大爆発が起きた日を示している。「宮川睦男」 とは長く三池炭鉱労働組合の組合長を務めた人。1979年3月、62歳で病死。その宮川組合長が当時の三池ＣＯ闘争（炭塵爆発により生じた一酸化炭素中毒 患者の人権を守る闘争）支援者に贈った記念品と思われる。ＣＯ闘争は、まさしく「人間らしく　生きるため」の闘いだった。今もその闘いは続いている。</p>
+<p>なお、同レリーフ式石炭人形は神戸の片岡古書店に持ち込まれたもの。</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "sekitan2" ;
+    ns2:medium "石炭" ;
+    ns2:subject "石炭人形" ;
+    ns2:title "レリーフ式石炭人形" .
+
+<https://diyhistory.org/miike-db/api/items/24> a ns1:Item ;
+    ns3:dateCreatedAccumulatedString "昭和31年5月20日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 24 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/179> ;
+    ns1:modified "2018-10-06T03:39:49+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:date "1956-05-20" ;
+    ns2:description """<p>「現在の大牟田市はここ数十 年の間に、全国屈指の鉱工業都市として発展した所以のものは、実に石炭資源の賜である。</p>
+<p>明治6年石炭採掘が官有となり、同21年三井家がこれを譲り受け、本格的な採掘に乗り出してから、快速調で発展の 一途をたどることになった。明治22年横須、稲荷、下里、大牟田の4カ村が町村制実施によって大牟田町となり、24年には 鉄道が開通し、三池港の築港工事が始まり、35年には大牟田港の起工、36年電話も開通した。炭鉱の発展に伴い、人口も 増加し、大正6年市制を施行、人口7万8千の大牟田市が誕生した。大正10年に水道開設、昭和2年市内電車の布設となり、 市役所新庁舎も完成、市勢いよいよ高まり、昭和4年三川町を合併し、更に16年玉川、駛目（はやめ）、三池、銀水の2町2村 を編入、目覚しい発展を遂げた。しかるに、昭和20年不幸にして戦災を受け、市街地の大部分を焦土に帰したが、市民の努力 により漸次（ぜんじ）復興の歩を進め、昭和30年10月現在人口20万2274人を算して、面積72平方キロ余、東と北に山岳丘陵 を負い、温度湿度共に快適、石炭を原料、動力とする化学工場の煙突は林立し、三池、大牟田の両港には船舶の出入り絶えず、 拡大な道路は縦横に走り、商店街又軒を連ね、踵（きびす）を接して疾走するトラック、バス、ハイヤー等大牟田の表情は 明日の発展に向かって限りなく頼もしいものがある。」（大牟田市街地図より抜粋）</p>
+<p>なお、平成20年10月1日現在の大牟田市住民基本台帳人口は、世帯数57,191、人口128,964、落ち着いた街となっている。</p>
+<p>定価50円</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "omutamap" ;
+    ns2:medium "紙" ;
+    ns2:subject "昭和31年地図・くろだいや新聞" ;
+    ns2:title "昭和31年大牟田市街地図" .
+
+<https://diyhistory.org/miike-db/api/items/25> a ns1:Item ;
+    ns3:acquisitions "浜崎忠勝氏" ;
+    ns3:dateCreatedAccumulatedString "平成4年1月1日号" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 25 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/180> ;
+    ns1:modified "2018-10-06T03:39:49+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:date "1992-01-01" ;
+    ns2:description """<p>毎月15日、三井三池鉱業所発行。定価20円となっているが、実質は組合員に 無料で配送されたという。同新聞には連載漫画「ドリルさん」が昭和26年11月から始まり、同37年からは「ゴッつあん」とタイトルを変えて連載された。 平成9年の三池炭鉱閉山までくろだいや新聞は70年続いた。連載漫画の作者は甘木太郎こと園田鉄雄さん。昭和2年生まれ。故人。本人亡き後、奥さんと息子さんが 「ゴッつあん」というタイトルで連載漫画をまとめ出版された。</p>
+<p>定価20円</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "sinbun" ;
+    ns2:medium "紙" ;
+    ns2:subject "昭和31年地図・くろだいや新聞" ;
+    ns2:title "くろだいや新聞" .
+
+<https://diyhistory.org/miike-db/api/items/26> a ns1:Item ;
+    ns3:acquisitions "浜崎忠勝氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 26 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/181>,
+        <https://diyhistory.org/miike-db/api/media/182> ;
+    ns1:modified "2018-10-06T03:39:49+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description "<p>作業着は毎年無料配布。ズボンは七分丈と長ズボンがあり、 長ズボンを使用する者は脚絆を装着しない者が多かった。</p>" ;
+    ns2:extent "1" ;
+    ns2:identifier "sagyogi" ;
+    ns2:subject "坑内着・脚絆・保安靴" ;
+    ns2:title "坑内作業" .
+
+<https://diyhistory.org/miike-db/api/items/27> a ns1:Item ;
+    ns3:acquisitions "浜崎忠勝氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 27 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/183> ;
+    ns1:modified "2018-10-06T03:39:49+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:extent "1" ;
+    ns2:identifier "kyahan" ;
+    ns2:subject "坑内着・脚絆・保安靴" ;
+    ns2:title "脚絆" .
+
+<https://diyhistory.org/miike-db/api/items/28> a ns1:Item ;
+    ns3:acquisitions "浜崎忠勝氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 28 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/184> ;
+    ns1:modified "2018-10-06T03:39:50+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description "<p>坑内保安靴には長靴と短靴があり、いずれもつま先に鉄板が入っており、 さらにその上にもう一つ鉄板を取り付けていた。採炭や掘進等、現場で作業する者は長靴を履いていた。長靴には「ミドリ安全」とメーカ名が記されてある。</p>" ;
+    ns2:extent "1" ;
+    ns2:identifier "kutu" ;
+    ns2:subject "坑内着・脚絆・保安靴" ;
+    ns2:title "坑内保安靴" .
+
+<https://diyhistory.org/miike-db/api/items/29> a ns1:Item ;
+    ns3:acquisitions "藤田さん" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 29 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/185> ;
+    ns1:modified "2018-10-06T03:39:50+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description """<p>1960年の三井三池労働争議から20年後の1980年に三池労組が制作した。 たて30センチ、よこ21センチ大。</p>
+<p>1980年と言えば、産炭地域振興臨時措置法が10年再延長を答申された年でもある。「産炭地域振興臨時措置法」とは、1960年代、全国で相次いだ炭鉱の閉山で、 産炭地域に多数の失業者と地域経済の沈滞を引き起こしたことに対する対策として、国が産炭地域への企業誘致、地元自治体への財政援助などを行なうための 臨時的な措置法。</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "tate1" ;
+    ns2:subject "三池闘争記念盾" ;
+    ns2:title "「三池闘争20周年記念」盾" .
+
+<https://diyhistory.org/miike-db/api/items/30> a ns1:Item ;
+    ns3:acquisitions "藤田さん" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 30 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/186> ;
+    ns1:modified "2018-10-06T03:39:50+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description """<p>1946年の三池炭鉱労働組合結成から30年後の1976年に三池労組が 制作した。たて23センチ、よこ18センチ大。</p>
+<p>1976年と言えば、福島および茨城両県にまたがっていた常磐炭鉱、福岡県の貝島炭鉱という大手炭鉱の閉山が相次いだ年でもある。</p>
+<p>また、多数の死傷者を出した3月の東アジア反日武装戦線による道庁爆破事件、7月の田中前首相（故人）逮捕事件、9月のソ連軍ミグ25函館空港亡命強行着陸、 そして同じ月、毛沢東主席の死去という社会的なニュースが相次いだ年でもあった。</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "tate2" ;
+    ns2:subject "三池闘争記念盾" ;
+    ns2:title "「組合結成30周年記念」盾" .
+
+<https://diyhistory.org/miike-db/api/items/31> a ns1:Item ;
+    ns3:acquisitions "写真提供　大坂間氏" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 31 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/187> ;
+    ns1:modified "2018-10-06T03:39:50+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description """<p>ヘルメットの前部にはキャップ ランプを取り付ける金具が付いていて、そこへキャップランプを装着し、つながれたコードでバッテリーに接続。そのバッテ リー（約15ｃｍ×18ｃｍ大）は腰の後ろに付け作業する。ズシリとした重さで作業は大変だったという｡しかし、真っ暗闇の 地の底においては、このキャップランプの灯りのみが頼りだった。</p>
+<p>キャップランプは昭和28年頃から使われるようになり、それまでは、カーバイトのアセチレンガスを発生させて灯すガス かんてら、油を使った油かんてらが使われていたと言い、しかしそれでは坑内ガスに引火すればひとたまりも無く、改良さ れてバッテリー式のキャップランプが考案された。</p>
+<p>また、ヘルメットに関しても、現在のアルミ製になったのは、昭和30年代に入ってからとのことで、それまでは布製の作 業用帽子だったという。</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "osakama" ;
+    ns2:medium "デジタル画像" ;
+    ns2:subject "坑内帽" ;
+    ns2:title "坑内帽" .
+
+<https://diyhistory.org/miike-db/api/items/32> a ns1:Item ;
+    ns3:acquisitions "写真提供　河口さん" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 32 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/188> ;
+    ns1:modified "2018-10-06T03:39:50+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description "<p>三井三池炭鉱四山鉱</p>" ;
+    ns2:extent "1" ;
+    ns2:identifier "kawaguti2" ;
+    ns2:medium "デジタル画像" ;
+    ns2:subject "坑内帽" ;
+    ns2:title "布製の作業用帽子" .
+
+<https://diyhistory.org/miike-db/api/items/33> a ns1:Item ;
+    ns3:acquisitions "江嶋氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 33 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/189> ;
+    ns1:modified "2018-10-06T03:39:50+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description """<p>赤旗は、三池労組員であった提供者 の父親（明治39年生まれ）が、三池闘争中警察に勾留された際、同じ働く仲間や社宅の人たちが激励のために寄せ書きして家族に 贈ったもの。</p>
+<p>「三井の首切りを撤回し最後まで闘ふ」「貴殿の無罪は白日なり」「後には全員がついている」「日本の平和、独立、民主主義 と繁栄のために頑張ろう」「不当弾圧に屈せず頑張れ」「弾圧けっとばせ」「統一ト団結ヲ以テ　最後迄闘ワン」「地域と闘魂は 益々燃え上がる　心おきなく　信を堅く頑張れ」「地域の事は心配するな　全員張切っている」「黙否で敵の意図を粉砕し最後ま で頑張れ」「御健康を祈る」「いつもの笑顔忘れないで」「全労働者が視ている　最後迄頑張れ」「ポリ公に負けるな　最後迄 ガンバレ」「闘う者に勝利あり」「ひげをなでなで頑張れ」「おとうさんがんばって　帰りまっています」「子供ノ事ハ引受ケ マス　体ニ気ヲツケテ」「家族ぐるみ闘いましょう」「おっちゃん　ガンバッテネ」などのほか、「トモ子の手　零才」の手形ま である。</p>
+<p>これを提供してくれた息子さんもすでに72歳、「争議中のことは思い出したくない」と語る。言うに言われぬ苦労があったに 違いない。</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "akahata1" ;
+    ns2:medium "布" ;
+    ns2:subject "赤旗" ;
+    ns2:title "赤旗" .
+
+<https://diyhistory.org/miike-db/api/items/34> a ns1:Item ;
+    ns3:acquisitions "渡辺さん" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 34 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/190> ;
+    ns1:modified "2018-10-06T03:39:50+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description """<p>大きさ縦72センチ、横100センチ。「最強の 武器は団結のみ」「共に闘う同志へ」「抵抗」など、たくさんの寄せ書きが記されてある。</p>
+<p>三重一般労働組合（三重県津市）の書記長だった故・渡辺さんの奥さんが、昭和58年、60歳になる少し手前で病死した夫に代わ って大切に長く保管していたもの。渡辺さんは1960年6月から終結まで三池闘争に総評オルグとして参加。参加当時は総評・全日自労 建設一般労働組合三重県本部の執行委員だった。</p>
+<p>三重一般労働組合は「ユニオンみえ」とも言い、職種、正規・非正規、パート、アルバイト等、雇用態様に関係なく、個人加盟の 労働組合。</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "akahata3" ;
+    ns2:medium "布" ;
+    ns2:subject "赤旗" ;
+    ns2:title "赤旗" .
+
+<https://diyhistory.org/miike-db/api/items/35> a ns1:Item ;
+    ns3:acquisitions "渡辺さん" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 35 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/191> ;
+    ns1:modified "2018-10-06T03:39:50+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description """<p>大きさ縦70センチ、横148センチ。渡辺さんらは 三池闘争時、大牟田市馬渡（まわたり）町にあった馬渡社宅に寝泊りし、三池労組宮浦支部馬渡地域分会のお世話を受けた。その時記念 に贈られた寄書入りの赤旗である。闘争の象徴であったホッパーのイラスト入り。</p>
+<p>寄せ書きした人々のその後は、指名解雇1200名の中の一人として解雇された者、職場に残るも職場差別を受け自ら去って行った者等、様々 で、大阪の枚方市など関西方面へ移り住んだ人たちも多くいた。その中で馬渡会を結成して共に助け合い親睦を図って行ったが、高齢化など により今や亡くなっている人たちが多くなって、関西不知火会と共に馬渡会も自然解散した。</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "akahata4" ;
+    ns2:medium "布" ;
+    ns2:subject "赤旗" ;
+    ns2:title "赤旗" .
+
+<https://diyhistory.org/miike-db/api/items/36> a ns1:Item ;
+    ns3:acquisitions "渡辺さん" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 36 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/192> ;
+    ns1:modified "2018-10-06T03:39:50+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description "<p>この赤旗の大きさは縦34センチ、横41センチ。 棒に取り付け手に持ち、部隊の目印として使用していたもの。</p>" ;
+    ns2:extent "1" ;
+    ns2:identifier "akahata5" ;
+    ns2:medium "布" ;
+    ns2:subject "赤旗" ;
+    ns2:title "赤旗" .
+
+<https://diyhistory.org/miike-db/api/items/37> a ns1:Item ;
+    ns3:acquisitions "江嶋氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "ファイル" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 37 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/193> ;
+    ns1:modified "2018-10-06T03:39:51+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合" ;
+    ns2:description """<p>三池炭鉱労働組合発行の 8枚組袋入り絵はがき。袋の裏には「正常なる労使のルールを蹂躙し、不法にも組合の弱体化と資本の利益追求のみを 企図した三井鉱山五千余名の首切りに対し五万の労働者と二十万家族は血の一滴までも傾け盡した斗争を展開している。 秋の日に顔をやき、寒空に幼児を抱き乍ら官憲の弾圧にもめげず会社の不誠意を追及し続けて既に九十日。此の斗いこそ、 全労働者の首切りに繋り、平和への途である事を信じて疑はない　三池炭鉱労働組合」と書かれてある。</p>
+<p>絵はがき作成の目的は、同組合員はもとより、主に全国の支援労組から資金カンパを得るために頒布されたものと思わ れる。</p>
+<p>「此の斗い」とは、「企業整備反対闘争」のことで、昭和28年8月7日、三井鉱山が鉱員5738人（うち三池関係1722人） の希望退職者募集を発表したことに端を発し、全山で696人が退職するも2768人は拒否、結果、その2768人に対し指名 解雇が通告され、9月より首切り反対闘争が展開されていった。</p>
+<p>同年12月5日、ついに会社側は指名解雇を撤回、組合側の勝利となった。これは113日にもわたる家族ぐるみの闘いで あり、別名「英雄なき113日の闘い」とも呼ばれた。</p>""" ;
+    ns2:extent "8" ;
+    ns2:identifier "ehagaki1" ;
+    ns2:medium "紙" ;
+    ns2:subject "絵はがき" ;
+    ns2:title "「企業整備反対闘争」絵はがき" .
+
+<https://diyhistory.org/miike-db/api/items/38> a ns1:Item ;
+    ns3:acquisitions "江嶋氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 38 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/194> ;
+    ns1:modified "2018-10-06T03:39:51+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合" ;
+    ns2:extent "1" ;
+    ns2:identifier "ehagaki2" ;
+    ns2:medium "紙" ;
+    ns2:subject "ehagaki1" ;
+    ns2:title "拒否者代表の帰山を迎え大牟田駅前の歓迎デモ" .
+
+<https://diyhistory.org/miike-db/api/items/39> a ns1:Item ;
+    ns3:acquisitions "江嶋氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 39 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/195> ;
+    ns1:modified "2018-10-06T03:39:51+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合" ;
+    ns2:extent "1" ;
+    ns2:identifier "ehagaki3" ;
+    ns2:medium "紙" ;
+    ns2:subject "ehagaki1" ;
+    ns2:title "首切り辞令は返上だ 棺桶や樽に詰めて座込み" .
+
+<https://diyhistory.org/miike-db/api/items/40> a ns1:Item ;
+    ns3:acquisitions "江嶋氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 40 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/196> ;
+    ns1:modified "2018-10-06T03:39:51+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合" ;
+    ns2:extent "1" ;
+    ns2:identifier "ehagaki4" ;
+    ns2:medium "紙" ;
+    ns2:subject "ehagaki1" ;
+    ns2:title "父ちゃん、兄ちゃんの首を切るな" .
+
+<https://diyhistory.org/miike-db/api/items/41> a ns1:Item ;
+    ns3:acquisitions "江嶋氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 41 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/197> ;
+    ns1:modified "2018-10-06T03:39:51+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合" ;
+    ns2:extent "1" ;
+    ns2:identifier "ehagaki5" ;
+    ns2:medium "紙" ;
+    ns2:subject "ehagaki1" ;
+    ns2:title "父ちゃんの背で首切り反対を叫ぶ" .
+
+<https://diyhistory.org/miike-db/api/items/42> a ns1:Item ;
+    ns3:acquisitions "江嶋氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 42 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/198> ;
+    ns1:modified "2018-10-06T03:39:51+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合" ;
+    ns2:extent "1" ;
+    ns2:identifier "ehagaki6" ;
+    ns2:medium "紙" ;
+    ns2:subject "ehagaki1" ;
+    ns2:title "9月4日首切り辞令を返上に雨中に8時間デモる" .
+
+<https://diyhistory.org/miike-db/api/items/43> a ns1:Item ;
+    ns3:acquisitions "江嶋氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 43 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/199> ;
+    ns1:modified "2018-10-06T03:39:51+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合" ;
+    ns2:extent "1" ;
+    ns2:identifier "ehagaki7" ;
+    ns2:medium "紙" ;
+    ns2:subject "ehagaki1" ;
+    ns2:title "10月8日より4日3晩の歴史的な山ノ上倶楽部の包囲デモ" .
+
+<https://diyhistory.org/miike-db/api/items/44> a ns1:Item ;
+    ns3:acquisitions "江嶋氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 44 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/200> ;
+    ns1:modified "2018-10-06T03:39:51+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合" ;
+    ns2:extent "1" ;
+    ns2:identifier "ehagaki8" ;
+    ns2:medium "紙" ;
+    ns2:subject "ehagaki1" ;
+    ns2:title "首切りの後は労働強化だ　二番方昇坑者は鉱長室前でデモる" .
+
+<https://diyhistory.org/miike-db/api/items/45> a ns1:Item ;
+    ns3:acquisitions "江嶋氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 45 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/201> ;
+    ns1:modified "2018-10-06T03:39:52+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合" ;
+    ns2:extent "1" ;
+    ns2:identifier "ehagaki9" ;
+    ns2:medium "紙" ;
+    ns2:subject "ehagaki1" ;
+    ns2:title "炭労から三鉱連を経て1000万円のカンパ届く" .
+
+<https://diyhistory.org/miike-db/api/items/46> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年4月7日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 46 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/154>,
+        <https://diyhistory.org/miike-db/api/media/155> ;
+    ns1:modified "2018-10-06T03:39:46+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合・総評常駐弁護団" ;
+    ns2:date "1960-04-07" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira12" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "声明書" .
+
+<https://diyhistory.org/miike-db/api/items/47> a ns1:Item ;
+    ns3:acquisitions "織田氏？" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 47 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-10-06T03:33:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "総評・炭労・三鉱労組" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira35" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "世界にも例がない" .
+
+<https://diyhistory.org/miike-db/api/items/48> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年4月8日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 48 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/92>,
+        <https://diyhistory.org/miike-db/api/media/93>,
+        <https://diyhistory.org/miike-db/api/media/94> ;
+    ns1:modified "2018-10-06T03:39:37+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱新労働組合" ;
+    ns2:date "1960-04-08" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira26" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "宮川組合長は既に1200名の解雇を認めていた" .
+
+<https://diyhistory.org/miike-db/api/items/49> a ns1:Item ;
+    ns3:acquisitions "織田氏？" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年5月" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 49 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-10-06T03:33:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労組" ;
+    ns2:date "1960-05" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira41" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "アイクの親善旅行は、実は前線基地の強化" .
+
+<https://diyhistory.org/miike-db/api/items/50> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年5月25日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 50 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-10-06T03:33:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱新労働組合" ;
+    ns2:date "1960-05-25" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira27" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "旧労・総評ピケ隊よ　フクメンをとりましょう" .
+
+<https://diyhistory.org/miike-db/api/items/51> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年5月27日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 51 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/107>,
+        <https://diyhistory.org/miike-db/api/media/108> ;
+    ns1:modified "2018-10-06T03:39:39+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱新労働組合" ;
+    ns2:date "1960-05-27" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira5" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "総評・炭労　オルグは帰れ！！" .
+
+<https://diyhistory.org/miike-db/api/items/52> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年5月28日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 52 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/105>,
+        <https://diyhistory.org/miike-db/api/media/106> ;
+    ns1:modified "2018-10-06T03:39:39+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "日本教職員組合" ;
+    ns2:date "1960-05-28" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira17" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "声明書・三池が勝つことは平和を守ること" .
+
+<https://diyhistory.org/miike-db/api/items/53> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年5月31日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 53 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/124>,
+        <https://diyhistory.org/miike-db/api/media/125>,
+        <https://diyhistory.org/miike-db/api/media/126> ;
+    ns1:modified "2018-10-06T03:39:42+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合・三池炭鉱主婦会" ;
+    ns2:date "1960-05-31" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira19" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "岸を倒せ、三池守れの声" .
+
+<https://diyhistory.org/miike-db/api/items/54> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月2日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 54 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/152>,
+        <https://diyhistory.org/miike-db/api/media/153> ;
+    ns1:modified "2018-10-06T03:39:46+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱新労働組合" ;
+    ns2:date "1960-06-02" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira28" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "新労の勝利をいのる！！" .
+
+<https://diyhistory.org/miike-db/api/items/55> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月6日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 55 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/102>,
+        <https://diyhistory.org/miike-db/api/media/103>,
+        <https://diyhistory.org/miike-db/api/media/104> ;
+    ns1:modified "2018-10-06T03:39:38+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱" ;
+    ns2:date "1960-06-06" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira9" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "会社は安定した長期体制をもって争議に対処している" .
+
+<https://diyhistory.org/miike-db/api/items/56> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月6日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 56 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/144>,
+        <https://diyhistory.org/miike-db/api/media/145>,
+        <https://diyhistory.org/miike-db/api/media/146> ;
+    ns1:modified "2018-10-06T03:39:45+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱職員労働組合" ;
+    ns2:date "1960-06-06" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira1" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "三池炭鉱の争議について　広く與論に訴える" .
+
+<https://diyhistory.org/miike-db/api/items/57> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月7日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 57 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/150>,
+        <https://diyhistory.org/miike-db/api/media/151> ;
+    ns1:modified "2018-10-06T03:39:46+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱新労働組合" ;
+    ns2:date "1960-06-07" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira29" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "私達は自分の家に住めない" .
+
+<https://diyhistory.org/miike-db/api/items/58> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月9日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 58 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/100>,
+        <https://diyhistory.org/miike-db/api/media/101>,
+        <https://diyhistory.org/miike-db/api/media/99> ;
+    ns1:modified "2018-10-06T03:39:38+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労組、大牟田・荒尾地評" ;
+    ns2:date "1960-06-09" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira30" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "岸と三井の会社の暴挙は許されません" .
+
+<https://diyhistory.org/miike-db/api/items/59> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月9日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 59 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/114>,
+        <https://diyhistory.org/miike-db/api/media/115>,
+        <https://diyhistory.org/miike-db/api/media/116> ;
+    ns1:modified "2018-10-06T03:39:40+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱職員労働組合" ;
+    ns2:date "1960-06-09" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira4" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "総評臨時大会　代議員の諸君に告ぐ" .
+
+<https://diyhistory.org/miike-db/api/items/60> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月9日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 60 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-10-06T03:33:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱" ;
+    ns2:date "1960-06-09" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira3" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "三池争議についての　三井の立場を訴える" .
+
+<https://diyhistory.org/miike-db/api/items/61> a ns1:Item ;
+    ns3:acquisitions "織田氏？" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月11日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 61 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-10-06T03:33:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "大牟田・荒尾地評" ;
+    ns2:date "1960-06-11" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira36" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "世界の平和と日本の民主主義を守ろう！！三池労組" .
+
+<https://diyhistory.org/miike-db/api/items/62> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月12日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 62 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-10-06T03:33:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池労組・三池主婦会" ;
+    ns2:date "1960-06-12" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira10" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "三池の闘いは本当に大牟田を潰すことになるのか" .
+
+<https://diyhistory.org/miike-db/api/items/63> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月15日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 63 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/109>,
+        <https://diyhistory.org/miike-db/api/media/110> ;
+    ns1:modified "2018-10-06T03:39:40+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池労組・三池主婦会" ;
+    ns2:date "1960-06-15" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira21" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "凶悪化した会社の殺人的行為" .
+
+<https://diyhistory.org/miike-db/api/items/64> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月17日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 64 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/128>,
+        <https://diyhistory.org/miike-db/api/media/129>,
+        <https://diyhistory.org/miike-db/api/media/130> ;
+    ns1:modified "2018-10-06T03:39:42+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱" ;
+    ns2:date "1960-06-17" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira7" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "会社再建と安保は全く別問題です！！" .
+
+<https://diyhistory.org/miike-db/api/items/65> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月18日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 65 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/111>,
+        <https://diyhistory.org/miike-db/api/media/112>,
+        <https://diyhistory.org/miike-db/api/media/113> ;
+    ns1:modified "2018-10-06T03:39:40+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合・三池炭鉱主婦会" ;
+    ns2:date "1960-06-18" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira20" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "私たちのピケはゆるがない" .
+
+<https://diyhistory.org/miike-db/api/items/66> a ns1:Item ;
+    ns3:acquisitions "織田氏？" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月20日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 66 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-10-06T03:33:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合・三池炭鉱主婦会" ;
+    ns2:date "1960-06-20" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira32" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "警官が線路に石をならべ写真をとる" .
+
+<https://diyhistory.org/miike-db/api/items/67> a ns1:Item ;
+    ns3:acquisitions "織田氏？" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月22日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 67 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-10-06T03:33:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱" ;
+    ns2:date "1960-06-22" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira33" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "これぞ　まさに　人道の敵！！" .
+
+<https://diyhistory.org/miike-db/api/items/68> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月24日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 68 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/135>,
+        <https://diyhistory.org/miike-db/api/media/136>,
+        <https://diyhistory.org/miike-db/api/media/137> ;
+    ns1:modified "2018-10-06T03:39:44+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "大牟田・荒尾地評" ;
+    ns2:date "1960-06-24" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira18" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "警官導入に苦肉の策　三池炭鉱労働組合" .
+
+<https://diyhistory.org/miike-db/api/items/69> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月27日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 69 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/134> ;
+    ns1:modified "2018-10-06T03:39:43+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "大牟田再建市民運動本部" ;
+    ns2:date "1960-06-27" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira22" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "旧労同志仲間われの悲劇" .
+
+<https://diyhistory.org/miike-db/api/items/7> a ns1:Item ;
+    ns3:acquisitions "織田氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 7 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/159> ;
+    ns1:modified "2018-10-06T03:39:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description """<p>三池炭鉱労働組合の鉢巻。長さ85センチ メートル、幅7センチメートル。鉢巻の両端は縫い込んである。</p>
+<p>三池闘争期間中、三池労組組合員のみならず、その妻までもが「団結」の意味を込めて四六時中鉢巻をしていた。主婦たちの鉢巻に は「三池主婦会」と記されてあった。鉢巻がはずされるのは、風呂へ入る時と寝る時ぐらいだったという。それらの鉢巻は、第２組合 員と区別するための手段の他、お互いの「仲間意識」を高めることにも大いに役立っていた。</p>
+<p>鉢巻の両端には色分けがしてあり、青色は三川支部、緑色は宮浦支部、うす茶色は本所、というように、組合員が所属する支部 を表していた。</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "hatimaki" ;
+    ns2:medium "布" ;
+    ns2:subject "三池労組・三池主婦会鉢巻" ;
+    ns2:title "三池労組鉢巻" .
+
+<https://diyhistory.org/miike-db/api/items/70> a ns1:Item ;
+    ns3:acquisitions "織田氏？" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月27日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 70 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-10-06T03:33:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合・三池炭鉱主婦会" ;
+    ns2:date "1960-06-27" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira39" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "会社の言う人道主義の正体はこうです" .
+
+<https://diyhistory.org/miike-db/api/items/71> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月29日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 71 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/120>,
+        <https://diyhistory.org/miike-db/api/media/121> ;
+    ns1:modified "2018-10-06T03:39:41+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱新労働組合" ;
+    ns2:date "1960-06-29" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira8" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "旧労　借金の対策に刀折れ矢尽く" .
+
+<https://diyhistory.org/miike-db/api/items/72> a ns1:Item ;
+    ns3:acquisitions "織田氏？" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月30日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 72 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-10-06T03:33:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合" ;
+    ns2:date "1960-06-30" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira40" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "スト破りは違法だ！　警察は厳正中立を守れ" .
+
+<https://diyhistory.org/miike-db/api/items/73> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月30日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 73 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/95>,
+        <https://diyhistory.org/miike-db/api/media/96>,
+        <https://diyhistory.org/miike-db/api/media/97>,
+        <https://diyhistory.org/miike-db/api/media/98> ;
+    ns1:modified "2018-10-06T03:39:37+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱" ;
+    ns2:date "1960-06-30" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira2" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "会社再建については絶対妥協は許されない" .
+
+<https://diyhistory.org/miike-db/api/items/74> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月30日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 74 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/131>,
+        <https://diyhistory.org/miike-db/api/media/132>,
+        <https://diyhistory.org/miike-db/api/media/133> ;
+    ns1:modified "2018-10-06T03:39:43+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池製作所労組・三池製作所職員労組・三池炭鉱職員労組" ;
+    ns2:date "1960-06-30" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira6" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "声明書" .
+
+<https://diyhistory.org/miike-db/api/items/75> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年6月30日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 75 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-10-06T03:33:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合・三池炭鉱主婦会" ;
+    ns2:date "1960-06-30" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira11" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "子供の希望をふみにじった会社" .
+
+<https://diyhistory.org/miike-db/api/items/76> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年7月" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 76 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/147>,
+        <https://diyhistory.org/miike-db/api/media/148>,
+        <https://diyhistory.org/miike-db/api/media/149> ;
+    ns1:modified "2018-10-06T03:39:45+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合・三池炭鉱主婦会" ;
+    ns2:date "1960-07" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira13" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "首切りは \"死刑の宣告\"" .
+
+<https://diyhistory.org/miike-db/api/items/77> a ns1:Item ;
+    ns3:acquisitions "織田氏？" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年7月8日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 77 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-10-06T03:33:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱" ;
+    ns2:date "1960-07-08" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira34" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "三池港務所の仮処分決定さる" .
+
+<https://diyhistory.org/miike-db/api/items/78> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年7月11日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 78 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/138>,
+        <https://diyhistory.org/miike-db/api/media/139>,
+        <https://diyhistory.org/miike-db/api/media/140> ;
+    ns1:modified "2018-10-06T03:39:44+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱" ;
+    ns2:date "1960-07-11" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira14" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "ホッパーピケは犯罪行為" .
+
+<https://diyhistory.org/miike-db/api/items/79> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年7月11日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 79 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/127> ;
+    ns1:modified "2018-10-06T03:39:42+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱新労働組合" ;
+    ns2:date "1960-07-11" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira23" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "旧労の皆さんに告ぐ！！" .
+
+<https://diyhistory.org/miike-db/api/items/8> a ns1:Item ;
+    ns3:acquisitions "島フミエ氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 8 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/160> ;
+    ns1:modified "2018-10-06T03:39:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description """<p>三池主婦会の鉢巻。鉢巻の幅7センチ、長さ87センチ。</p>
+<p>三池主婦会の前身・三池炭婦協は1953年結成された。それまでのかあちゃん達の社宅内での関心事は、「隣りの給料は今月いくらあった とか、何を買ったとか、うちでは買えない、じゃあ父ちゃん、もうちょっとがんばらんね」が実態だったが、「主婦が父ちゃん達の足を 引っ張っていたのでは本当の闘いは出来ないではないか」という反省から炭婦協が結成された（島フミエさん談）。</p>
+<p>以来、「炭鉱の嫁ごが鉢巻バしてワッショイなどとなんばしとっとか。みっともなか」と一部の地元民から陰口を叩かれながらも、闘い を続け、三池労組鉢巻と同じく、三池のかあちゃん達は三池主婦会の鉢巻に誇りを感じ取っていた。</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "hatimaki2" ;
+    ns2:medium "布" ;
+    ns2:subject "三池労組・三池主婦会鉢巻" ;
+    ns2:title "三池主婦会鉢巻" .
+
+<https://diyhistory.org/miike-db/api/items/80> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年7月17日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 80 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/122>,
+        <https://diyhistory.org/miike-db/api/media/123> ;
+    ns1:modified "2018-10-06T03:39:41+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱" ;
+    ns2:date "1960-07-17" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira15" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "仮処分が平穏に執行できるようご協力下さい" .
+
+<https://diyhistory.org/miike-db/api/items/81> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年7月18日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 81 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/117>,
+        <https://diyhistory.org/miike-db/api/media/118>,
+        <https://diyhistory.org/miike-db/api/media/119> ;
+    ns1:modified "2018-10-06T03:39:41+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池労組" ;
+    ns2:date "1960-07-18" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira16" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "流血の惨事はさけねばならぬ　総評・炭労現地指導委員会" .
+
+<https://diyhistory.org/miike-db/api/items/82> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年7月23日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 82 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/141>,
+        <https://diyhistory.org/miike-db/api/media/142>,
+        <https://diyhistory.org/miike-db/api/media/143> ;
+    ns1:modified "2018-10-06T03:39:44+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池労組" ;
+    ns2:date "1960-07-23" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira25" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "会社が早期解決をしぶっているのはなぜでしょう" .
+
+<https://diyhistory.org/miike-db/api/items/83> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年8月10日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 83 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-10-06T03:33:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池労組" ;
+    ns2:date "1960-08-10" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira31" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "あっせん案　総評・炭労現地指導委員会" .
+
+<https://diyhistory.org/miike-db/api/items/84> a ns1:Item ;
+    ns3:acquisitions "上杉氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年8月20日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 84 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/156>,
+        <https://diyhistory.org/miike-db/api/media/157>,
+        <https://diyhistory.org/miike-db/api/media/158> ;
+    ns1:modified "2018-10-06T03:39:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱新労働組合" ;
+    ns2:date "1960-08-20" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira24" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "新労加入者　声明を発表す" .
+
+<https://diyhistory.org/miike-db/api/items/85> a ns1:Item ;
+    ns3:acquisitions "織田氏？" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年8月23日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 85 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-10-06T03:33:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱新労働組合" ;
+    ns2:date "1960-08-23" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira38" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "三池新労　号外" .
+
+<https://diyhistory.org/miike-db/api/items/86> a ns1:Item ;
+    ns3:acquisitions "織田氏？" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1960（昭和35）年8月25日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 86 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-10-06T03:33:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱新労働組合" ;
+    ns2:date "1960-08-25" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira37" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "炭労大会延期の真相はこうです" .
+
+<https://diyhistory.org/miike-db/api/items/87> a ns1:Item ;
+    ns3:acquisitions "織田氏？" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "1972年6月" ;
+    ns3:level "アイテム" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 87 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-11-02T12:48:37+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三池炭鉱労働組合; ＣＯ患者・遺族を守る会" ;
+    ns2:date "1972-06" ;
+    ns2:extent "1" ;
+    ns2:identifier "bira42" ;
+    ns2:medium "紙" ;
+    ns2:subject "ビラ" ;
+    ns2:title "三池は不屈にＣＯ闘争を闘い続ける" .
+
+<https://diyhistory.org/miike-db/api/items/88> a ns1:Item ;
+    ns3:acquisitions "積さん" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 88 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/202> ;
+    ns1:modified "2018-10-06T03:39:52+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "三井三池じん肺訴訟二陣原告団" ;
+    ns2:description """<p>資料提供者は積さん。三井三池じん肺訴訟二陣原告団の副団長を務められた。タスキの長さ86センチ、幅13センチ。</p>
+<p>1998年1月29日、三池炭鉱の第二陣として、じん肺になった元炭鉱労働者と遺族が三井鉱山・三井石炭鉱業・三井建設の3社に対し集団提訴。</p>
+<p>じん肺は現役で発症する人よりも、退職した後病気が進行するケースが多く、現代医学でもってしても完治せず、苦しみながら亡くなることが多い恐ろしい病。</p>
+<p>三井建設は2001年に和解に応じ、2002年8月1日には福岡の西鉄グランドホテルにおいて、三井両社との間で「三井鉱山関連じん肺問題」終結共同宣言が行われ和解が成立した。</p>
+<p>しかし、その1ヵ月後の9月4日、第二陣訴訟原告団の遠藤団長は亡くなられた。</p>
+<p>「北松、筑豊、北海道、三池一陣等の先輩たちが苦労してじん肺裁判勝利への道筋をつけて下さったおかげで、約4年半の短期間で勝利和解ができた。その4年半ではありますが、このタスキにはその間の汗が染み付いております。特に筑豊の人たちからの支援が大きかった」と積さんは語る。</p>
+<p>なお、三池じん肺訴訟の一陣提訴は1993年。その第一陣原告団のタスキの色は赤色。「三池じん肺訴訟原告団」と記されていた。</p>
+<p>現在、大牟田市にある米の山病院では年2回じん肺・アスベスト肺の検診相談会が開催されている。</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "tasuki" ;
+    ns2:subject "じん肺訴訟原告団タスキ" ;
+    ns2:title "三池炭鉱じん肺訴訟原告団タスキ" .
+
+<https://diyhistory.org/miike-db/api/items/89> a ns1:Item ;
+    ns3:acquisitions "永嶋さん" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "昭和35年1月25日" ;
+    ns3:level "アイテム" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 89 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/203> ;
+    ns1:modified "2018-10-21T02:28:15+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:date "1960-01-25" ;
+    ns2:description """ホッパーパイプを送ってきてくれた 人は永嶋さん、昭和7年生まれ。三池闘争後、首を切られた1200名の中の１人。その時29歳だった。 \r
+\r
+同パイプは、長さ25センチ、三池労組のマークと共に「斗争」と記され、その下には「頑張ろう突き上げる空に　くろがね の男の拳がある燃え上がる女の拳がある　斗いは今から斗いは今から」と書き込まれてある。パイプの裏側には「企反・安保 斗争記念　昭和35年1月25日」とある。\r
+\r
+「ホッパー」とは貯炭槽のこと。昭和34年11月から1年間近く繰り広げられた三池闘争の中で、ホッパーは闘う三池炭鉱労働者 にとって最後の砦だった。その砦には、オルグの人々も含めた1万人以上の労働者が結集し、働くものの砦を死守した。そんな中で誰が最初に始めたのか、木の根っ子などを利用してたばこパイプが作られた。\r
+\r
+護身用に作ったという話もあるが、そればかりではないだろう。争議妥結後、帰って行くオルグの人たちに友情の証しとして贈ら れたりした。筑豊の森田ヤエ子が作詞し、三池炭鉱労働者作曲家だった荒木栄が曲をつけた「団結おどり」には、「オルグ記念の ホッパーパイプ　ピケに来た　ピケに来た」という一節がある。三池を闘ってきた者たちの自宅床の間に、今も大切に飾っている 人も多い。""" ;
+    ns2:extent "1" ;
+    ns2:identifier "pipe" ;
+    ns2:medium "木" ;
+    ns2:subject "ホッパーパイプ" ;
+    ns2:title "ホッパーパイプ" .
+
+<https://diyhistory.org/miike-db/api/items/9> a ns1:Item ;
+    ns3:acquisitions "渡辺氏" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 9 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:media <https://diyhistory.org/miike-db/api/media/161> ;
+    ns1:modified "2018-10-06T03:39:47+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:description "<p>鉢巻の幅6.5センチ、長さ75センチ。三重一般労働組合 （三重県津市）書記長・渡辺さん（故人）が総評オルグとして1960年6月から三池闘争終結まで派遣された際に身につけていた鉢巻。昭和58年、 60歳になる少し手前で病死されて以降、ホッパーパイプ・赤旗などと共に奥さんが大切に保管されていた。</p>" ;
+    ns2:extent "1" ;
+    ns2:identifier "hatimaki3" ;
+    ns2:medium "布" ;
+    ns2:subject "三池労組・三池主婦会鉢巻" ;
+    ns2:title "その他の鉢巻" .
+
+<https://diyhistory.org/miike-db/api/items/90> a ns1:Item ;
+    ns3:acquisitions "Sさん" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "昭和52年11月15日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 90 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-10-06T03:39:52+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "福岡鉱山保安監督" ;
+    ns2:date "1977-11-15" ;
+    ns2:description """<p>昭和52年11月15日福岡鉱山保安監督局 発行。就業鉱山名「三池炭鉱四山鉱」。就業作業名「石炭鉱山保安規則第38条第1項第2号」。鉱業権者「三井石炭鉱業株式会社」。 教育内容は「配電一般に関すること」「電気工事材料、電気機器一般及電気鉄道を設けた鉱山における電気鉄道に関すること」 「電気工事施工法に関すること」「電気工作物の試験方法及修理方法に関すること」「配電線図に関すること」「関係法令に関すること」 とあり、注意事項として「有資格者は、当該作業を行なっているときは、常にこの証明書を携帯すること」とある。</p>
+<p>Ｓさんが持つその他「有資格者証明書」には、昭和56年3月13日取得のアセチレンガス溶接（石炭鉱山 保安規則第38条第1項第7号）および電気機関車運転（石炭鉱山保安規則第38条第1項第4号）、平成7年2月17日取得の坑内電池自動車 運転（石炭鉱山保安規則第38条第1項第5号の3）がある。</p>
+<p>「これらは鉱員の資格で、フォークリフトや玉掛けなどの作業と同じく、危険な作業に就くには当該資格が必要だった」（Ｓさん談）。</p>
+<p>なお、坑内電池自動車とは「三池炭鉱閉山前の平成6年頃、三川鉱350メートル坑道から520メートル坑道への連絡斜坑を運転していた 人車が廃止され、ここを利用する保安要員4,5名のために、速度5kmの電池式自動車が配置された」という。</p>""" ;
+    ns2:extent "1" ;
+    ns2:identifier "seki1" ;
+    ns2:medium "紙" ;
+    ns2:subject "有資格者証明書" ;
+    ns2:title "電気有資格者証明書" .
+
+<https://diyhistory.org/miike-db/api/items/91> a ns1:Item ;
+    ns3:acquisitions "Sさん" ;
+    ns3:alternateFormsAvailable "デジタル画像" ;
+    ns3:dateCreatedAccumulatedString "昭和39年11月5日" ;
+    ns3:level "アイテ" ;
+    ns1:created "2018-10-06T03:33:26+00:00"^^xsd:dateTime ;
+    ns1:id 91 ;
+    ns1:is_public true ;
+    ns1:item_set <https://diyhistory.org/miike-db/api/item_sets/4> ;
+    ns1:modified "2018-11-02T12:50:12+00:00"^^xsd:dateTime ;
+    ns1:owner <https://diyhistory.org/miike-db/api/users/1> ;
+    ns2:creator "鉱山保安試験審査会長" ;
+    ns2:date "1964-11-05" ;
+    ns2:description """石炭鉱山は法律により、坑内空気中のメタンガスの量が多い炭鉱を「甲種」、少ない炭鉱を「乙種」 と分類していた。三池炭鉱は甲種。したがって、三池炭鉱で坑内保安技術職員（いわゆる「職員」）になるためには「甲種坑内保安 係員」の国家試験合格が条件だった。さらに坑内全般の保安担当に就くためには、「甲種電気保安係員」「機械保安係員」の国家試験 合格を必要とし取得。（Ｓさん談）\r
+\r
+また、閉山の噂が出始めた頃には、炭鉱だけではなくトンネルや火薬庫でも通用する「甲種火薬類取扱保安責任者」の資格を取得も したが、Ｓさんは結局色々な理由から職員になることを希望せず鉱員で終えたという。""" ;
+    ns2:extent "1" ;
+    ns2:identifier "seki2" ;
+    ns2:medium "紙" ;
+    ns2:subject "有資格者証明書" ;
+    ns2:title "甲種坑内保安係員　国家試験合格証" .
+
+<http://creativecommons.org/licenses/by/4.0/> ns1:label "CC BY" .
+
+<http://creativecommons.org/publicdomain/zero/1.0/> ns1:label "CC0" .
+
+<https://diyhistory.org/miike-db/api/media/100> ns1:id 100 .
+
+<https://diyhistory.org/miike-db/api/media/101> ns1:id 101 .
+
+<https://diyhistory.org/miike-db/api/media/102> ns1:id 102 .
+
+<https://diyhistory.org/miike-db/api/media/103> ns1:id 103 .
+
+<https://diyhistory.org/miike-db/api/media/104> ns1:id 104 .
+
+<https://diyhistory.org/miike-db/api/media/105> ns1:id 105 .
+
+<https://diyhistory.org/miike-db/api/media/106> ns1:id 106 .
+
+<https://diyhistory.org/miike-db/api/media/107> ns1:id 107 .
+
+<https://diyhistory.org/miike-db/api/media/108> ns1:id 108 .
+
+<https://diyhistory.org/miike-db/api/media/109> ns1:id 109 .
+
+<https://diyhistory.org/miike-db/api/media/110> ns1:id 110 .
+
+<https://diyhistory.org/miike-db/api/media/111> ns1:id 111 .
+
+<https://diyhistory.org/miike-db/api/media/112> ns1:id 112 .
+
+<https://diyhistory.org/miike-db/api/media/113> ns1:id 113 .
+
+<https://diyhistory.org/miike-db/api/media/114> ns1:id 114 .
+
+<https://diyhistory.org/miike-db/api/media/115> ns1:id 115 .
+
+<https://diyhistory.org/miike-db/api/media/116> ns1:id 116 .
+
+<https://diyhistory.org/miike-db/api/media/117> ns1:id 117 .
+
+<https://diyhistory.org/miike-db/api/media/118> ns1:id 118 .
+
+<https://diyhistory.org/miike-db/api/media/119> ns1:id 119 .
+
+<https://diyhistory.org/miike-db/api/media/120> ns1:id 120 .
+
+<https://diyhistory.org/miike-db/api/media/121> ns1:id 121 .
+
+<https://diyhistory.org/miike-db/api/media/122> ns1:id 122 .
+
+<https://diyhistory.org/miike-db/api/media/123> ns1:id 123 .
+
+<https://diyhistory.org/miike-db/api/media/124> ns1:id 124 .
+
+<https://diyhistory.org/miike-db/api/media/125> ns1:id 125 .
+
+<https://diyhistory.org/miike-db/api/media/126> ns1:id 126 .
+
+<https://diyhistory.org/miike-db/api/media/127> ns1:id 127 .
+
+<https://diyhistory.org/miike-db/api/media/128> ns1:id 128 .
+
+<https://diyhistory.org/miike-db/api/media/129> ns1:id 129 .
+
+<https://diyhistory.org/miike-db/api/media/130> ns1:id 130 .
+
+<https://diyhistory.org/miike-db/api/media/131> ns1:id 131 .
+
+<https://diyhistory.org/miike-db/api/media/132> ns1:id 132 .
+
+<https://diyhistory.org/miike-db/api/media/133> ns1:id 133 .
+
+<https://diyhistory.org/miike-db/api/media/134> ns1:id 134 .
+
+<https://diyhistory.org/miike-db/api/media/135> ns1:id 135 .
+
+<https://diyhistory.org/miike-db/api/media/136> ns1:id 136 .
+
+<https://diyhistory.org/miike-db/api/media/137> ns1:id 137 .
+
+<https://diyhistory.org/miike-db/api/media/138> ns1:id 138 .
+
+<https://diyhistory.org/miike-db/api/media/139> ns1:id 139 .
+
+<https://diyhistory.org/miike-db/api/media/140> ns1:id 140 .
+
+<https://diyhistory.org/miike-db/api/media/141> ns1:id 141 .
+
+<https://diyhistory.org/miike-db/api/media/142> ns1:id 142 .
+
+<https://diyhistory.org/miike-db/api/media/143> ns1:id 143 .
+
+<https://diyhistory.org/miike-db/api/media/144> ns1:id 144 .
+
+<https://diyhistory.org/miike-db/api/media/145> ns1:id 145 .
+
+<https://diyhistory.org/miike-db/api/media/146> ns1:id 146 .
+
+<https://diyhistory.org/miike-db/api/media/147> ns1:id 147 .
+
+<https://diyhistory.org/miike-db/api/media/148> ns1:id 148 .
+
+<https://diyhistory.org/miike-db/api/media/149> ns1:id 149 .
+
+<https://diyhistory.org/miike-db/api/media/150> ns1:id 150 .
+
+<https://diyhistory.org/miike-db/api/media/151> ns1:id 151 .
+
+<https://diyhistory.org/miike-db/api/media/152> ns1:id 152 .
+
+<https://diyhistory.org/miike-db/api/media/153> ns1:id 153 .
+
+<https://diyhistory.org/miike-db/api/media/154> ns1:id 154 .
+
+<https://diyhistory.org/miike-db/api/media/155> ns1:id 155 .
+
+<https://diyhistory.org/miike-db/api/media/156> ns1:id 156 .
+
+<https://diyhistory.org/miike-db/api/media/157> ns1:id 157 .
+
+<https://diyhistory.org/miike-db/api/media/158> ns1:id 158 .
+
+<https://diyhistory.org/miike-db/api/media/159> ns1:id 159 .
+
+<https://diyhistory.org/miike-db/api/media/160> ns1:id 160 .
+
+<https://diyhistory.org/miike-db/api/media/161> ns1:id 161 .
+
+<https://diyhistory.org/miike-db/api/media/162> ns1:id 162 .
+
+<https://diyhistory.org/miike-db/api/media/163> ns1:id 163 .
+
+<https://diyhistory.org/miike-db/api/media/164> ns1:id 164 .
+
+<https://diyhistory.org/miike-db/api/media/165> ns1:id 165 .
+
+<https://diyhistory.org/miike-db/api/media/166> ns1:id 166 .
+
+<https://diyhistory.org/miike-db/api/media/167> ns1:id 167 .
+
+<https://diyhistory.org/miike-db/api/media/168> ns1:id 168 .
+
+<https://diyhistory.org/miike-db/api/media/169> ns1:id 169 .
+
+<https://diyhistory.org/miike-db/api/media/170> ns1:id 170 .
+
+<https://diyhistory.org/miike-db/api/media/171> ns1:id 171 .
+
+<https://diyhistory.org/miike-db/api/media/172> ns1:id 172 .
+
+<https://diyhistory.org/miike-db/api/media/173> ns1:id 173 .
+
+<https://diyhistory.org/miike-db/api/media/175> ns1:id 175 .
+
+<https://diyhistory.org/miike-db/api/media/176> ns1:id 176 .
+
+<https://diyhistory.org/miike-db/api/media/177> ns1:id 177 .
+
+<https://diyhistory.org/miike-db/api/media/178> ns1:id 178 .
+
+<https://diyhistory.org/miike-db/api/media/179> ns1:id 179 .
+
+<https://diyhistory.org/miike-db/api/media/180> ns1:id 180 .
+
+<https://diyhistory.org/miike-db/api/media/181> ns1:id 181 .
+
+<https://diyhistory.org/miike-db/api/media/182> ns1:id 182 .
+
+<https://diyhistory.org/miike-db/api/media/183> ns1:id 183 .
+
+<https://diyhistory.org/miike-db/api/media/184> ns1:id 184 .
+
+<https://diyhistory.org/miike-db/api/media/185> ns1:id 185 .
+
+<https://diyhistory.org/miike-db/api/media/186> ns1:id 186 .
+
+<https://diyhistory.org/miike-db/api/media/187> ns1:id 187 .
+
+<https://diyhistory.org/miike-db/api/media/188> ns1:id 188 .
+
+<https://diyhistory.org/miike-db/api/media/189> ns1:id 189 .
+
+<https://diyhistory.org/miike-db/api/media/190> ns1:id 190 .
+
+<https://diyhistory.org/miike-db/api/media/191> ns1:id 191 .
+
+<https://diyhistory.org/miike-db/api/media/192> ns1:id 192 .
+
+<https://diyhistory.org/miike-db/api/media/193> ns1:id 193 .
+
+<https://diyhistory.org/miike-db/api/media/194> ns1:id 194 .
+
+<https://diyhistory.org/miike-db/api/media/195> ns1:id 195 .
+
+<https://diyhistory.org/miike-db/api/media/196> ns1:id 196 .
+
+<https://diyhistory.org/miike-db/api/media/197> ns1:id 197 .
+
+<https://diyhistory.org/miike-db/api/media/198> ns1:id 198 .
+
+<https://diyhistory.org/miike-db/api/media/199> ns1:id 199 .
+
+<https://diyhistory.org/miike-db/api/media/200> ns1:id 200 .
+
+<https://diyhistory.org/miike-db/api/media/201> ns1:id 201 .
+
+<https://diyhistory.org/miike-db/api/media/202> ns1:id 202 .
+
+<https://diyhistory.org/miike-db/api/media/203> ns1:id 203 .
+
+<https://diyhistory.org/miike-db/api/media/205> ns1:id 205 .
+
+<https://diyhistory.org/miike-db/api/media/207> ns1:id 207 .
+
+<https://diyhistory.org/miike-db/api/media/208> ns1:id 208 .
+
+<https://diyhistory.org/miike-db/api/media/209> ns1:id 209 .
+
+<https://diyhistory.org/miike-db/api/media/210> ns1:id 210 .
+
+<https://diyhistory.org/miike-db/api/media/211> ns1:id 211 .
+
+<https://diyhistory.org/miike-db/api/media/212> ns1:id 212 .
+
+<https://diyhistory.org/miike-db/api/media/213> ns1:id 213 .
+
+<https://diyhistory.org/miike-db/api/media/214> ns1:id 214 .
+
+<https://diyhistory.org/miike-db/api/media/215> ns1:id 215 .
+
+<https://diyhistory.org/miike-db/api/media/216> ns1:id 216 .
+
+<https://diyhistory.org/miike-db/api/media/217> ns1:id 217 .
+
+<https://diyhistory.org/miike-db/api/media/404> ns1:id 404 .
+
+<https://diyhistory.org/miike-db/api/media/405> ns1:id 405 .
+
+<https://diyhistory.org/miike-db/api/media/406> ns1:id 406 .
+
+<https://diyhistory.org/miike-db/api/media/407> ns1:id 407 .
+
+<https://diyhistory.org/miike-db/api/media/408> ns1:id 408 .
+
+<https://diyhistory.org/miike-db/api/media/409> ns1:id 409 .
+
+<https://diyhistory.org/miike-db/api/media/410> ns1:id 410 .
+
+<https://diyhistory.org/miike-db/api/media/411> ns1:id 411 .
+
+<https://diyhistory.org/miike-db/api/media/412> ns1:id 412 .
+
+<https://diyhistory.org/miike-db/api/media/413> ns1:id 413 .
+
+<https://diyhistory.org/miike-db/api/media/414> ns1:id 414 .
+
+<https://diyhistory.org/miike-db/api/media/415> ns1:id 415 .
+
+<https://diyhistory.org/miike-db/api/media/416> ns1:id 416 .
+
+<https://diyhistory.org/miike-db/api/media/417> ns1:id 417 .
+
+<https://diyhistory.org/miike-db/api/media/418> ns1:id 418 .
+
+<https://diyhistory.org/miike-db/api/media/419> ns1:id 419 .
+
+<https://diyhistory.org/miike-db/api/media/420> ns1:id 420 .
+
+<https://diyhistory.org/miike-db/api/media/421> ns1:id 421 .
+
+<https://diyhistory.org/miike-db/api/media/422> ns1:id 422 .
+
+<https://diyhistory.org/miike-db/api/media/423> ns1:id 423 .
+
+<https://diyhistory.org/miike-db/api/media/424> ns1:id 424 .
+
+<https://diyhistory.org/miike-db/api/media/425> ns1:id 425 .
+
+<https://diyhistory.org/miike-db/api/media/426> ns1:id 426 .
+
+<https://diyhistory.org/miike-db/api/media/427> ns1:id 427 .
+
+<https://diyhistory.org/miike-db/api/media/428> ns1:id 428 .
+
+<https://diyhistory.org/miike-db/api/media/429> ns1:id 429 .
+
+<https://diyhistory.org/miike-db/api/media/430> ns1:id 430 .
+
+<https://diyhistory.org/miike-db/api/media/431> ns1:id 431 .
+
+<https://diyhistory.org/miike-db/api/media/432> ns1:id 432 .
+
+<https://diyhistory.org/miike-db/api/media/433> ns1:id 433 .
+
+<https://diyhistory.org/miike-db/api/media/434> ns1:id 434 .
+
+<https://diyhistory.org/miike-db/api/media/435> ns1:id 435 .
+
+<https://diyhistory.org/miike-db/api/media/436> ns1:id 436 .
+
+<https://diyhistory.org/miike-db/api/media/437> ns1:id 437 .
+
+<https://diyhistory.org/miike-db/api/media/438> ns1:id 438 .
+
+<https://diyhistory.org/miike-db/api/media/439> ns1:id 439 .
+
+<https://diyhistory.org/miike-db/api/media/440> ns1:id 440 .
+
+<https://diyhistory.org/miike-db/api/media/92> ns1:id 92 .
+
+<https://diyhistory.org/miike-db/api/media/93> ns1:id 93 .
+
+<https://diyhistory.org/miike-db/api/media/94> ns1:id 94 .
+
+<https://diyhistory.org/miike-db/api/media/95> ns1:id 95 .
+
+<https://diyhistory.org/miike-db/api/media/96> ns1:id 96 .
+
+<https://diyhistory.org/miike-db/api/media/97> ns1:id 97 .
+
+<https://diyhistory.org/miike-db/api/media/98> ns1:id 98 .
+
+<https://diyhistory.org/miike-db/api/media/99> ns1:id 99 .
+
+<https://diyhistory.org/miike-db/api/item_sets/1> ns1:id 1 .
+
+<https://diyhistory.org/miike-db/api/item_sets/4> ns1:id 4 .
+
+<https://diyhistory.org/miike-db/api/users/1> ns1:id 1 .
+
